@@ -5,5 +5,6 @@ int main() {
   cout << "GIT HUB"<< endl;
   cout << "test"<<endl;
    cout << "Sprawdzenie galezi"<<endl;
+   cout << "test"<<endl;
     return 0;
 }
