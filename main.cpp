@@ -6,5 +6,6 @@ int main() {
   cout << "test"<<endl;
    cout << "Sprawdzenie galezi"<<endl;
    cout << "test"<<endl;
+   cout << "slack"<<endl;
     return 0;
 }
